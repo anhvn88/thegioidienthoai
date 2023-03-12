@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/thegioidienthoai/static/css/main.e57f8e4a.css",
-    "main.js": "/thegioidienthoai/static/js/main.c5947525.js",
+    "main.js": "/thegioidienthoai/static/js/main.7c552e79.js",
     "static/js/787.30e47586.chunk.js": "/thegioidienthoai/static/js/787.30e47586.chunk.js",
     "static/media/product_2.png": "/thegioidienthoai/static/media/product_2.1bc52f8922d488cead68.png",
     "static/media/product_3.png": "/thegioidienthoai/static/media/product_3.48eda5293a6f605e73f7.png",
@@ -11,11 +11,11 @@
     "static/media/banner1.jpg": "/thegioidienthoai/static/media/banner1.4a22881c941f7b645fa8.jpg",
     "index.html": "/thegioidienthoai/index.html",
     "main.e57f8e4a.css.map": "/thegioidienthoai/static/css/main.e57f8e4a.css.map",
-    "main.c5947525.js.map": "/thegioidienthoai/static/js/main.c5947525.js.map",
+    "main.7c552e79.js.map": "/thegioidienthoai/static/js/main.7c552e79.js.map",
     "787.30e47586.chunk.js.map": "/thegioidienthoai/static/js/787.30e47586.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e57f8e4a.css",
-    "static/js/main.c5947525.js"
+    "static/js/main.7c552e79.js"
   ]
 }
